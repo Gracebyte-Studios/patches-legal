@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gracebytestudios.patches",
+      "sha256_cert_fingerprints": [
+        "3A:58:D1:3F:11:AC:93:40:80:DF:72:E6:E1:91:62:A7:54:E0:33:4C:6D:D1:94:1E:09:C6:15:3D:61:88:8C:D0",
+        "B8:61:D0:A3:39:20:83:5A:7B:96:AA:A8:E0:2E:2C:A2:63:ED:0D:92:54:EA:74:F5:8A:6F:C1:E7:F3:06:14:30"
+      ]
+    }
+  }
+]

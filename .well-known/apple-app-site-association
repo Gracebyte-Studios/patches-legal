@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GYQR3DUAL4.com.gracebytestudios.patches",
+        "paths": ["/friend", "/friend?*"]
+      }
+    ]
+  }
+}
