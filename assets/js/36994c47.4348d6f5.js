@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatches_legal=self.webpackChunkpatches_legal||[]).push([["191"],{5516(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

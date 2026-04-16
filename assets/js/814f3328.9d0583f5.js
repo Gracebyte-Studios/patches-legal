@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatches_legal=self.webpackChunkpatches_legal||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
